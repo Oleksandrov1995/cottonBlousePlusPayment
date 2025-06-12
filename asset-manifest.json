@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Oleksandrov1995/cottonBlousePlusPayment/static/css/main.3555c6ba.css",
-    "main.js": "/Oleksandrov1995/cottonBlousePlusPayment/static/js/main.8ef8fcd3.js",
+    "main.js": "/Oleksandrov1995/cottonBlousePlusPayment/static/js/main.5ba2254b.js",
     "static/media/reviews10.PNG": "/Oleksandrov1995/cottonBlousePlusPayment/static/media/reviews10.8040e1905202ce6a66b2.PNG",
     "static/media/proposal2.jpg": "/Oleksandrov1995/cottonBlousePlusPayment/static/media/proposal2.3ae44ef92f81115667d1.jpg",
     "static/media/reviews9.png": "/Oleksandrov1995/cottonBlousePlusPayment/static/media/reviews9.fe6fb71305813a443db0.png",
@@ -122,10 +122,10 @@
     "static/media/logo1.jpg": "/Oleksandrov1995/cottonBlousePlusPayment/static/media/logo1.051c716fd5532611781a.jpg",
     "index.html": "/Oleksandrov1995/cottonBlousePlusPayment/index.html",
     "main.3555c6ba.css.map": "/Oleksandrov1995/cottonBlousePlusPayment/static/css/main.3555c6ba.css.map",
-    "main.8ef8fcd3.js.map": "/Oleksandrov1995/cottonBlousePlusPayment/static/js/main.8ef8fcd3.js.map"
+    "main.5ba2254b.js.map": "/Oleksandrov1995/cottonBlousePlusPayment/static/js/main.5ba2254b.js.map"
   },
   "entrypoints": [
     "static/css/main.3555c6ba.css",
-    "static/js/main.8ef8fcd3.js"
+    "static/js/main.5ba2254b.js"
   ]
 }
